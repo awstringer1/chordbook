@@ -5,6 +5,7 @@ use warnings;
 my $input_file = $ARGV[0] or die "Usage: $0 input.md\n";
 my $output_file = $input_file;
 $output_file =~ s/\.md$/.tex/;
+$output_file =~ s/songs/songs\/tex/;
 
 open my $in, '<', $input_file or die "Could not open '$input_file': $!\n";
 open my $out, '>', $output_file or die "Could not open '$output_file': $!\n";

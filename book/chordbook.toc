@@ -2,3 +2,4 @@
 \contentsline {section}{Hindustan}{3}{}%
 \contentsline {section}{Margie}{4}{}%
 \contentsline {section}{Milneburg Joys}{5}{}%
+\contentsline {section}{When You and I Were Young, Maggie}{6}{}%
