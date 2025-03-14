@@ -1,0 +1,30 @@
+# I Had Someone Else Before I Had You
+
+## Intro
+
+
+## Chorus
+
+Bb % % G7 Cm F7 Bb F7
+Bb % C7 % % % F7 %
+Bb7 % Eb % C7 % F7 %
+Bb % % G7 Cm F7 Bb %
+
+
+## Lyrics
+
+I had someone else before I had you
+And I'll have someone after you're gone
+Sweethearts and street cars don't worry me
+There'll soon be another one along
+
+No need to stay go any day
+I've got a swingin' door right in my heart
+And it swings either way
+
+I had someone else before I had you
+And I'll have someone after you're gone
+
+(Alternate bridge)
+If you don't like your bunk pack all your junk
+Won't take you long because you're standing in the middle of your trunk

@@ -1,5 +1,20 @@
-\contentsline {section}{All of me}{2}{}%
-\contentsline {section}{Hindustan}{3}{}%
-\contentsline {section}{Margie}{4}{}%
-\contentsline {section}{Milneburg Joys}{5}{}%
-\contentsline {section}{When You and I Were Young, Maggie}{6}{}%
+\contentsline {section}{All of me}{3}{}%
+\contentsline {section}{Apple Blossom Time}{4}{}%
+\contentsline {section}{Avalon}{5}{}%
+\contentsline {section}{Brother Can You Spare A Dime}{6}{}%
+\contentsline {section}{Dinah}{7}{}%
+\contentsline {section}{Don't Think Twice, It's Alright}{8}{}%
+\contentsline {section}{Dream}{10}{}%
+\contentsline {section}{Exactly Like You}{11}{}%
+\contentsline {section}{Georgia On My Mind}{12}{}%
+\contentsline {section}{Hindustan}{13}{}%
+\contentsline {section}{I Can't Escape From You}{14}{}%
+\contentsline {section}{I Had Someone Else Before I Had You}{15}{}%
+\contentsline {section}{Margie}{16}{}%
+\contentsline {section}{Milneburg Joys}{17}{}%
+\contentsline {section}{One Sweet Letter From You}{18}{}%
+\contentsline {section}{Polkadots and Moonbeams}{19}{}%
+\contentsline {section}{Smile}{20}{}%
+\contentsline {section}{Some of These Days}{21}{}%
+\contentsline {section}{When My Dreamboat Comes Home}{22}{}%
+\contentsline {section}{When You and I Were Young, Maggie}{23}{}%

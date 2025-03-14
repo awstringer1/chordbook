@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.12.7)  9 MAR 2025 16:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.12.7)  14 MAR 2025 06:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -63,14 +63,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 11.
- (book/chordbook.toc)
+ (book/chordbook.toc [1
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
 \tf@toc=\write3
 \openout3 = `chordbook.toc'.
 
- [1
-
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./song
-s/tex/allofme.tex
+ [2] (./songs/tex/allofme.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -80,22 +79,227 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--18
 
  []
 
-[2] (./songs/tex/hindustan.tex
-Underfull \hbox (badness 10000) in paragraph at lines 27--31
+[3] (./songs/tex/appleblossomtime.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 21--20
 
  []
 
-) [3] (./songs/tex/margie.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
+[4] (./songs/tex/avalon.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 18--22
 
  []
 
-[4] (./songs/tex/milenburgjoys.tex)
+[5] (./songs/tex/brothercanyouspareadime.tex
+Underfull \hbox (badness 10000) in paragraph at lines 27--35
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 36--24
+
+ []
+
+[6] (./songs/tex/dinah.tex
 Underfull \hbox (badness 10000) in paragraph at lines 21--24
 
  []
 
-[5] (./songs/tex/whenyouandiwereyoungmaggie.tex
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 31--26
+
+ []
+
+[7] (./songs/tex/dontthinktwice.tex
+Underfull \hbox (badness 10000) in paragraph at lines 18--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--44
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 45--28
+
+ []
+
+[8] [9] (./songs/tex/dream.tex
+Underfull \hbox (badness 10000) in paragraph at lines 27--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--38
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 39--30
+
+ []
+
+[10] (./songs/tex/exactlylikeyou.tex
+Underfull \hbox (badness 10000) in paragraph at lines 21--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--36
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 37--32
+
+ []
+
+[11] (./songs/tex/georgia.tex
+Overfull \hbox (31.36192pt too wide) in paragraph at lines 15--21
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--35
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 36--34
+
+ []
+
+[12] (./songs/tex/hindustan.tex
+Underfull \hbox (badness 10000) in paragraph at lines 27--31
+
+ []
+
+) [13] (./songs/tex/icantescapefromyou.tex
+Underfull \hbox (badness 10000) in paragraph at lines 18--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--30
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 31--38
+
+ []
+
+[14] (./songs/tex/ihadsomeoneelse.tex
+Underfull \hbox (badness 10000) in paragraph at lines 21--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 33--40
+
+ []
+
+[15] (./songs/tex/margie.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 21--42
+
+ []
+
+[16] (./songs/tex/milenburgjoys.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 21--44
+
+ []
+
+[17] (./songs/tex/onesweetletter.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 21--46
+
+ []
+
+[18] (./songs/tex/polkadotsandmoonbeams.tex
+Overfull \hbox (38.29259pt too wide) in paragraph at lines 10--16
+[] 
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 21--48
+
+ []
+
+[19] (./songs/tex/smile.tex
+Underfull \hbox (badness 10000) in paragraph at lines 21--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--32
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 33--50
+
+ []
+
+[20] (./songs/tex/someofthesedays.tex
+Underfull \hbox (badness 10000) in paragraph at lines 21--25
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 26--52
+
+ []
+
+[21] (./songs/tex/whenmydreamboat.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 21--54
+
+ []
+
+[22] (./songs/tex/whenyouandiwereyoungmaggie.tex
 Underfull \hbox (badness 10000) in paragraph at lines 21--29
 
  []
@@ -106,29 +310,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--38
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 39--26
+Underfull \hbox (badness 10000) in paragraph at lines 39--56
 
  []
 
-[6] (book/chordbook.aux) ) 
+[23] (book/chordbook.aux) ) 
 Here is how much of TeX's memory you used:
- 517 strings out of 478994
- 8576 string characters out of 5858184
- 297687 words of memory out of 5000000
- 18048 multiletter control sequences out of 15000+600000
+ 576 strings out of 478994
+ 10003 string characters out of 5858184
+ 298687 words of memory out of 5000000
+ 18063 multiletter control sequences out of 15000+600000
  407791 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,9n,50p,160b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2021/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr17.pfb>
-Output written on book/chordbook.pdf (6 pages, 71751 bytes).
+</usr/local/texlive/2021/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmsy7.pfb>
+Output written on book/chordbook.pdf (23 pages, 101102 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
+ 102 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
