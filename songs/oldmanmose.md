@@ -1,0 +1,39 @@
+# Old Man Mose
+
+## Chorus
+
+Gm D7 Gm D7 Gm D7 Gm/D7 Gm
+Gm D7 Gm D7 Gm D7 Gm/D7 Gm
+
+Bb F7 Bb F7 Bb F7 Bb/F7 Bb
+Bb F7 Bb F7 Bb F7 Bb/F7 Bb
+
+## Lyrics
+
+There once was an old man with a very crooked nose
+He lived in a log hut, they called him Old Man Mose
+Early one morning I knocked upon his door
+I didn't hear a single song, I won't do that no more
+
+I went around the side, and I peaked into a crack
+There I saw that old man laying flat on his back
+Whether old man was dead or sleeping I surely did not know
+But after looking through that crack I won't do that no more
+
+I believe (old man)
+I believe (old man)
+I believe (old man)
+That Old Man Mose is dead
+I believe (old man)
+I believe (old man)
+I believe (old man)
+That Old Man Mose is dead
+
+(He believes) Mose kicked the bucket
+(He believes) Mose kicked the bucket
+(He believes) Mose kicked the bucket
+(He believes he's dead)
+(He believes) Mose kicked the bucket
+(He believes) Mose kicked the bucket
+(He believes) Mose kicked the bucket
+(He believes he's dead)

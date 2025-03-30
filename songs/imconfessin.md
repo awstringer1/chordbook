@@ -1,0 +1,46 @@
+# I'm Confessin
+
+## Intro
+
+Ab % Ab/A$^{\circ}$ Bbm7/Eb7 Bbm7 % Bbm7/Eb7 Ab
+Ab7 Gb7 F7 Bbm7 Db/Dbm Ab/F7 Bb7/Eb7 Ab 
+
+## Chorus
+
+Ab % % F7 Bb7 Eb7 Ab Eb7
+Ab % % F7 Bb7 Eb7 Ab/Dbm Ab
+Ab7 % Db % Bb7 % Eb7 %
+Ab % % F7 Bb7 Eb7 Ab/Dbm Ab
+
+
+## Lyrics
+
+I'm confessing that I love you
+Tell me do you love me too
+I'm confessing that I need you
+Honest I do
+
+In your eyes I read such strange things
+But your lips deny they're true
+Would you answer really change things
+Making me blue
+
+I am so afraid you'll leave me
+Saying can we still be friends
+If you go darling it will grieve me
+All of life on you depends
+
+I'm confessing that I love you
+Dreaming dreams of you in vain
+I'm confessing that I love you
+Over again
+
+I'm just a gigolo, everywhere I go
+People know the part that I play
+Paid for every dance, selling each romance
+All my life dear I've played
+There will come a day when youth will pass away
+What will they say about me
+When the end comes I will know 
+I was just a gigolo
+And life goes on without me

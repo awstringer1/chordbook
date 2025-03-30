@@ -19,6 +19,7 @@ print $out "\\documentclass{article}\n";
 print $out "\\setcounter{secnumdepth}{0}\n";
 print $out "\\setlength{\\parindent}{0pt}\n";
 print $out "\\usepackage{ulem}\n";
+print $out "\\usepackage[hidelinks]{hyperref}\n";
 print $out "\\author{Alex Stringer}\n\n";
 print $out "\\title{Chord Book}\n\n";
 print $out "\\begin{document}\n\n";

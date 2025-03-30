@@ -1,20 +1,35 @@
-\contentsline {section}{All of me}{3}{}%
-\contentsline {section}{Apple Blossom Time}{4}{}%
-\contentsline {section}{Avalon}{5}{}%
-\contentsline {section}{Brother Can You Spare A Dime}{6}{}%
-\contentsline {section}{Dinah}{7}{}%
-\contentsline {section}{Don't Think Twice, It's Alright}{8}{}%
-\contentsline {section}{Dream}{10}{}%
-\contentsline {section}{Exactly Like You}{11}{}%
-\contentsline {section}{Georgia On My Mind}{12}{}%
-\contentsline {section}{Hindustan}{13}{}%
-\contentsline {section}{I Can't Escape From You}{14}{}%
-\contentsline {section}{I Had Someone Else Before I Had You}{15}{}%
-\contentsline {section}{Margie}{16}{}%
-\contentsline {section}{Milneburg Joys}{17}{}%
-\contentsline {section}{One Sweet Letter From You}{18}{}%
-\contentsline {section}{Polkadots and Moonbeams}{19}{}%
-\contentsline {section}{Smile}{20}{}%
-\contentsline {section}{Some of These Days}{21}{}%
-\contentsline {section}{When My Dreamboat Comes Home}{22}{}%
-\contentsline {section}{When You and I Were Young, Maggie}{23}{}%
+\contentsline {section}{All By Myself}{3}{section*.2}%
+\contentsline {section}{All of me}{4}{section*.5}%
+\contentsline {section}{Apple Blossom Time}{5}{section*.9}%
+\contentsline {section}{Avalon}{6}{section*.13}%
+\contentsline {section}{Brother Can You Spare A Dime}{7}{section*.16}%
+\contentsline {section}{Dinah}{8}{section*.20}%
+\contentsline {section}{Do Lord}{9}{section*.24}%
+\contentsline {section}{Don't Think Twice, It's Alright}{10}{section*.27}%
+\contentsline {section}{Dream}{12}{section*.30}%
+\contentsline {section}{Eh La Bas}{13}{section*.34}%
+\contentsline {section}{Exactly Like You}{14}{section*.37}%
+\contentsline {section}{Georgia On My Mind}{15}{section*.41}%
+\contentsline {section}{(Over in the) Gloryland}{16}{section*.45}%
+\contentsline {section}{Hindustan}{17}{section*.48}%
+\contentsline {section}{I Can't Escape From You}{18}{section*.52}%
+\contentsline {section}{I Get the Blues When It Rains}{19}{section*.55}%
+\contentsline {section}{I Had Someone Else Before I Had You}{20}{section*.58}%
+\contentsline {section}{I'm Alone Because I Love You}{21}{section*.62}%
+\contentsline {section}{I'm Confessin}{22}{section*.65}%
+\contentsline {section}{Margie}{23}{section*.69}%
+\contentsline {section}{Milneburg Joys}{24}{section*.73}%
+\contentsline {section}{Old Man Mose}{25}{section*.77}%
+\contentsline {section}{One Sweet Letter From You}{26}{section*.80}%
+\contentsline {section}{Panama Rag}{27}{section*.84}%
+\contentsline {section}{Polkadots and Moonbeams}{28}{section*.87}%
+\contentsline {section}{Short Dress Gal}{29}{section*.91}%
+\contentsline {section}{Sing On}{30}{section*.94}%
+\contentsline {section}{Smile}{31}{section*.96}%
+\contentsline {section}{Somebody Else is Taking My Place}{32}{section*.100}%
+\contentsline {section}{Some of These Days}{33}{section*.103}%
+\contentsline {section}{That's A Plenty}{34}{section*.107}%
+\contentsline {section}{Tiger Rag}{35}{section*.110}%
+\contentsline {section}{Whenever You're Lonesome}{36}{section*.113}%
+\contentsline {section}{When My Dreamboat Comes Home}{37}{section*.116}%
+\contentsline {section}{When You and I Were Young, Maggie}{38}{section*.120}%

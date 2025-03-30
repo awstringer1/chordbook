@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.12.7)  14 MAR 2025 06:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.12.7)  30 MAR 2025 13:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -35,71 +35,256 @@ File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 Package: ulem 2019/11/18
 \ULdepth=\dimen141
 )
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen142
+\Hy@linkcounter=\count188
+\Hy@pagecounter=\count189
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
+nguages
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count190
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count191
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen143
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count192
+\Field@Width=\dimen144
+\Fld@charsize=\dimen145
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count193
+\c@Item=\count194
+\c@Hfootnote=\count195
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count196
+\c@bookmark@seq@number=\count197
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip50
+)
 (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count188
+\l__color_backend_stack_int=\count198
 \l__pdf_internal_box=\box50
 )
 (book/chordbook.aux)
 \openout1 = `chordbook.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+Package hyperref Info: Link coloring OFF on input line 10.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count199
+)
+LaTeX Info: Redefining \ref on input line 10.
+LaTeX Info: Redefining \pageref on input line 10.
+LaTeX Info: Redefining \nameref on input line 10.
+ (book/chordbook.out) (book/chordbook.out)
+\@outlinefile=\write3
+\openout3 = `chordbook.out'.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 11.
+(Font)              <12> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 11.
+(Font)              <8> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 11.
+(Font)              <6> on input line 13.
  (book/chordbook.toc [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
-\tf@toc=\write3
-\openout3 = `chordbook.toc'.
+\tf@toc=\write4
+\openout4 = `chordbook.toc'.
 
- [2] (./songs/tex/allofme.tex
+ [2]
+(./songs/tex/allbymyself.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 10.
+(Font)              <7> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 10.
+(Font)              <5> on input line 7.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
 )
-Underfull \hbox (badness 10000) in paragraph at lines 21--18
+Underfull \hbox (badness 10000) in paragraph at lines 28--19
 
  []
 
-[3] (./songs/tex/appleblossomtime.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 21--20
+[3] (./songs/tex/allofme.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
 
  []
 
-[4] (./songs/tex/avalon.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 18--22
+[4] (./songs/tex/appleblossomtime.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
 
  []
 
-[5] (./songs/tex/brothercanyouspareadime.tex
+[5] (./songs/tex/avalon.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 18--25
+
+ []
+
+[6] (./songs/tex/brothercanyouspareadime.tex
 Underfull \hbox (badness 10000) in paragraph at lines 27--35
 
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 36--24
+Underfull \hbox (badness 10000) in paragraph at lines 36--27
 
  []
 
-[6] (./songs/tex/dinah.tex
+[7] (./songs/tex/dinah.tex
 Underfull \hbox (badness 10000) in paragraph at lines 21--24
 
  []
@@ -115,11 +300,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--30
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 31--26
+Underfull \hbox (badness 10000) in paragraph at lines 31--29
 
  []
 
-[7] (./songs/tex/dontthinktwice.tex
+[8] (./songs/tex/dolord.tex
+Underfull \hbox (badness 10000) in paragraph at lines 18--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--27
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 28--31
+
+ []
+
+[9] (./songs/tex/dontthinktwice.tex
 Underfull \hbox (badness 10000) in paragraph at lines 18--26
 
  []
@@ -135,11 +335,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--44
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 45--28
+Underfull \hbox (badness 10000) in paragraph at lines 45--33
 
  []
 
-[8] [9] (./songs/tex/dream.tex
+[10] [11] (./songs/tex/dream.tex
 Underfull \hbox (badness 10000) in paragraph at lines 27--32
 
  []
@@ -150,11 +350,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--38
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 39--30
+Underfull \hbox (badness 10000) in paragraph at lines 39--35
 
  []
 
-[10] (./songs/tex/exactlylikeyou.tex
+[12] (./songs/tex/ehlasbas.tex
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 24--37
+
+ []
+
+[13] (./songs/tex/exactlylikeyou.tex
 Underfull \hbox (badness 10000) in paragraph at lines 21--25
 
  []
@@ -170,11 +395,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--36
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 37--32
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
 
  []
 
-[11] (./songs/tex/georgia.tex
+[14] (./songs/tex/georgia.tex
 Overfull \hbox (31.36192pt too wide) in paragraph at lines 15--21
 [] 
  []
@@ -190,16 +415,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--35
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 36--34
+Underfull \hbox (badness 10000) in paragraph at lines 36--41
 
  []
 
-[12] (./songs/tex/hindustan.tex
+[15] (./songs/tex/gloryland.tex
+Underfull \hbox (badness 10000) in paragraph at lines 25--29
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 30--43
+
+ []
+
+[16] (./songs/tex/hindustan.tex
 Underfull \hbox (badness 10000) in paragraph at lines 27--31
 
  []
 
-) [13] (./songs/tex/icantescapefromyou.tex
+) [17] (./songs/tex/icantescapefromyou.tex
 Underfull \hbox (badness 10000) in paragraph at lines 18--21
 
  []
@@ -215,11 +450,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--30
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 31--38
+Underfull \hbox (badness 10000) in paragraph at lines 31--47
 
  []
 
-[14] (./songs/tex/ihadsomeoneelse.tex
+[18] (./songs/tex/igettheblueswhenitrains.tex
+Underfull \hbox (badness 10000) in paragraph at lines 18--22
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 23--49
+
+ []
+
+[19] (./songs/tex/ihadsomeoneelse.tex
 Underfull \hbox (badness 10000) in paragraph at lines 21--25
 
  []
@@ -235,36 +480,111 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--32
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 33--40
+Underfull \hbox (badness 10000) in paragraph at lines 33--51
 
  []
 
-[15] (./songs/tex/margie.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 21--42
+[20] (./songs/tex/imalonebecauseiloveyou.tex
+Underfull \hbox (badness 10000) in paragraph at lines 18--22
 
  []
 
-[16] (./songs/tex/milenburgjoys.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 21--44
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
 
  []
 
-[17] (./songs/tex/onesweetletter.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 21--46
+)
+Underfull \hbox (badness 10000) in paragraph at lines 26--53
 
  []
 
-[18] (./songs/tex/polkadotsandmoonbeams.tex
+[21] (./songs/tex/imconfessin.tex
+Underfull \hbox (badness 10000) in paragraph at lines 27--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--46
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 47--55
+
+ []
+
+[22] (./songs/tex/margie.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 21--57
+
+ []
+
+[23] (./songs/tex/milenburgjoys.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 21--59
+
+ []
+
+[24] (./songs/tex/oldmanmose.tex
+Underfull \hbox (badness 10000) in paragraph at lines 22--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--40
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 41--61
+
+ []
+
+[25] (./songs/tex/onesweetletter.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 21--63
+
+ []
+
+[26] (./songs/tex/panama.tex) [27] (./songs/tex/polkadotsandmoonbeams.tex
 Overfull \hbox (38.29259pt too wide) in paragraph at lines 10--16
 [] 
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 21--48
+Underfull \hbox (badness 10000) in paragraph at lines 21--67
 
  []
 
-[19] (./songs/tex/smile.tex
+[28] (./songs/tex/shortdressgal.tex
+Underfull \hbox (badness 10000) in paragraph at lines 21--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--30
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 31--69
+
+ []
+
+[29] (./songs/tex/singon.tex) [30] (./songs/tex/smile.tex
 Underfull \hbox (badness 10000) in paragraph at lines 21--24
 
  []
@@ -280,26 +600,52 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--32
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 33--50
+Underfull \hbox (badness 10000) in paragraph at lines 33--73
 
  []
 
-[20] (./songs/tex/someofthesedays.tex
+[31] (./songs/tex/somebodyelseistakingmyplace.tex
+Underfull \hbox (badness 10000) in paragraph at lines 18--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 26--75
+
+ []
+
+[32] (./songs/tex/someofthesedays.tex
 Underfull \hbox (badness 10000) in paragraph at lines 21--25
 
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 26--52
+Underfull \hbox (badness 10000) in paragraph at lines 26--77
 
  []
 
-[21] (./songs/tex/whenmydreamboat.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 21--54
+[33] (./songs/tex/thatsaplenty.tex) [34] (./songs/tex/tigerrag.tex) [35]
+(./songs/tex/wheneveryourelonesome.tex
+Underfull \hbox (badness 10000) in paragraph at lines 18--22
 
  []
 
-[22] (./songs/tex/whenyouandiwereyoungmaggie.tex
+)
+Underfull \hbox (badness 10000) in paragraph at lines 23--83
+
+ []
+
+[36] (./songs/tex/whenmydreamboat.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 21--85
+
+ []
+
+[37] (./songs/tex/whenyouandiwereyoungmaggie.tex
 Underfull \hbox (badness 10000) in paragraph at lines 21--29
 
  []
@@ -310,30 +656,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--38
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 39--56
+Underfull \hbox (badness 10000) in paragraph at lines 39--87
 
  []
 
-[23] (book/chordbook.aux) ) 
+[38] (book/chordbook.aux)
+Package rerunfilecheck Info: File `chordbook.out' has not changed.
+(rerunfilecheck)             Checksum: 59F876CC4C65FFF4E42C33C4DF36F99B;4871.
+ ) 
 Here is how much of TeX's memory you used:
- 576 strings out of 478994
- 10003 string characters out of 5858184
- 298687 words of memory out of 5000000
- 18063 multiletter control sequences out of 15000+600000
+ 7384 strings out of 478994
+ 110658 string characters out of 5858184
+ 406689 words of memory out of 5000000
+ 24551 multiletter control sequences out of 15000+600000
  407791 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,9n,50p,160b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2021/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmsy7.pfb>
-Output written on book/chordbook.pdf (23 pages, 101102 bytes).
+ 71i,11n,74p,293b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
+local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on book/chordbook.pdf (38 pages, 120149 bytes).
 PDF statistics:
- 102 PDF objects out of 1000 (max. 8388607)
- 70 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 494 PDF objects out of 1000 (max. 8388607)
+ 443 compressed objects within 5 object streams
+ 162 named destinations out of 1000 (max. 500000)
+ 281 words of extra memory for PDF output out of 10000 (max. 10000000)
 
